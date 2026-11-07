@@ -4,7 +4,7 @@
 
 One Piece is an epic adventure and fantasy series created by **Eiichiro Oda**. It follows the journey of Monkey D. Luffy and his pirate crew as they search for the legendary treasure known as the "One Piece" to become the King of the Pirates.
 
-### Main Characters — The Straw Hat Crew
+### Main Characters — The Straw Hat  Crew
 
 - **Monkey D. Luffy** — the captain who dreams of freedom
 - **Roronoa Zoro** — the swordsman who never gets lost
